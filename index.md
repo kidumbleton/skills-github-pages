@@ -1,7 +1,3 @@
 ---
-title: This is a test.
+title: Welcome to my blog!
 ---
-Here's a bunch of content.
-* more content
-* more content
-* and some more
